@@ -44,9 +44,23 @@
   </url>
   
   <url>
+    <loc>http://example.com/cn/RFID%20Block2/</loc>
+    
+    <lastmod>2024-04-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/cn/%E5%B5%8C%E5%85%A5%E5%BC%8F-Block1/</loc>
     
     <lastmod>2024-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/cn/RFID%20Block1/</loc>
+    
+    <lastmod>2024-04-15</lastmod>
     
   </url>
   
@@ -67,14 +81,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/RFID/</loc>
+    <loc>http://example.com/tags/Embedded-System/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Embedded-System/</loc>
+    <loc>http://example.com/tags/RFID/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
