@@ -57,13 +57,6 @@
     
   </url>
   
-  <url>
-    <loc>http://example.com/en/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://example.com/</loc>
@@ -81,28 +74,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/EPCGlobal/</loc>
-    <lastmod>2024-10-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2024-10-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/Embedded-System/</loc>
-    <lastmod>2024-10-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/appliaction/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -112,13 +84,6 @@
   
   <url>
     <loc>http://example.com/categories/Lecture/</loc>
-    <lastmod>2024-10-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
