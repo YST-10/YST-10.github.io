@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/undefined/123-md/</loc>
-    
-    <lastmod>2024-10-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/cn/test/</loc>
-    
-    <lastmod>2024-10-15</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2024-10-15</lastmod>
@@ -51,7 +37,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/cn/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://example.com/en/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
@@ -65,7 +51,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/en/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://example.com/cn/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
@@ -109,14 +95,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/appliaction/</loc>
+    <loc>http://example.com/tags/Embedded-System/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Embedded-System/</loc>
+    <loc>http://example.com/tags/appliaction/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

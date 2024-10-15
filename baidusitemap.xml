@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://example.com/undefined/123-md/</loc>
-    <lastmod>2024-10-15</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/cn/test/</loc>
-    <lastmod>2024-10-15</lastmod>
-  </url>
-  <url>
     <loc>http://example.com/cn/RFID%20Block3/</loc>
     <lastmod>2024-05-16</lastmod>
   </url>
@@ -17,7 +9,7 @@
     <lastmod>2024-04-16</lastmod>
   </url>
   <url>
-    <loc>http://example.com/cn/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://example.com/en/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-04-16</lastmod>
   </url>
   <url>
@@ -25,7 +17,7 @@
     <lastmod>2020-04-16</lastmod>
   </url>
   <url>
-    <loc>http://example.com/en/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://example.com/cn/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-04-16</lastmod>
   </url>
 </urlset> 
