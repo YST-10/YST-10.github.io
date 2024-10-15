@@ -37,6 +37,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/cn/RFID%20Block4/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/archive/index.html</loc>
     
     <lastmod>2017-03-20</lastmod>
@@ -66,10 +73,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/tags/RFID/</loc>
+    <lastmod>2024-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>http://example.com/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2024-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Lecture/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
